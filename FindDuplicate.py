@@ -14,3 +14,14 @@ input = [4,3,2,7,8,2,3,1]
 output = [2,3]
 
 '''
+
+
+def find_duplicate(arr):
+
+    for i in range()
+
+
+if __name__ == '__main__':
+    input_arr = [4,3,2,7,8,2,3,1]
+    output = find_duplicate(input_arr)
+    print(output)

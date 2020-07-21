@@ -15,7 +15,7 @@ output = [2,3]
 
 '''
 def find_duplicate(arr):
-    
+    pass
     
 
 
